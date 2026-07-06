@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(115, 2, 207);
+}
+canvas{
+    float: left;
+}
+#highscore{
+    display: right;
+    background-color: #66d0f4;
+    width: 800px;
+    height: 1.8em;
+    font: Arial;
+    font-size: 2em;
+    text-align: center;
+    margin-left: 0;
+    float: right;
+}
+span{
+    color: rgb(255, 255, 255);
+    display: inline;
+    text-align: center;
+    font-size: 1.23em;
+}
+
+#spielstaende{
+background-color: white;
+height: 20em;
+width: 2em;
+
+}
+h2{
+    display: right;
+    background-color: #66d0f4;
+    width: 800px;
+    height: 2em;
+    font: Arial;
+    font-size: 2rem;
+    text-align: center;
+    margin-left: 0;
+    float: left;
+}
+h3{
+
+    background-color: #66d0f4;
+    width: 800px;
+    height: 2.3em;
+    font: Arial;
+    color: rgb(61, 61, 61);
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 0;
+    float: right;
+}
+p{
+    font-size: 1.5em;
+    width: 800px;
+    background-color: #66d0f4;
+    text-align: center;
+    float: right;
+    }
